@@ -1,0 +1,42 @@
+  body {
+
+  }
+  .buttons {
+    margin-top: 40px;
+    text-align: center;
+  }
+  .clock {
+     
+      height: 500px;
+      width: 500px;
+      background-color: #4ABDAC;
+      border-radius: 100%;
+      border: 1px solid #AAAAAA;
+      margin: 30px auto;
+      top: 0; left: 0; bottom: 0; right: 0;
+  
+    }
+    #timer > h1 {
+      font-size: 52px;
+      color:#373737;    }
+    #timer{
+       margin-top: 10%;
+      font-size: 84px;
+      text-align:center;
+       -webkit-transition-duration: 5s; /* Safari */
+    transition-duration: 5s;
+
+    }
+    .btn {
+      font-size: 24px;
+    }
+    #breakTimer {
+      font-size: 24px;
+    text-align: center;
+    }
+a { color: #d9534f} 
+a:hover, a:link, a:visited, a:active {
+  color: #d9534f;
+   text-decoration: none;
+
+}
